@@ -1,0 +1,35 @@
+You are a professional website copywriter.
+
+Generate website content for a local clinic.
+
+Business Name: CarePlus Clinic
+Location: Vijayawada
+Target Audience: Families, working professionals, elderly patients
+Services: General Consultation, Health Checkups, Diagnostics, Vaccination
+Tone: Professional, caring, trustworthy
+
+Requirements:
+
+1. Homepage content:
+
+   * Headline
+   * Subheadline
+   * About section
+   * Why choose us (3–5 points)
+
+2. Services page:
+
+   * Short intro
+   * Description for each service
+
+3. Call-to-Action:
+
+   * Appointment CTA
+   * Contact CTA
+
+Ensure:
+
+* Simple and clear language
+* Trust-building tone
+* Patient-friendly communication
+* Website-ready formatting

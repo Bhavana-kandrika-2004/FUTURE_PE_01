@@ -43,3 +43,36 @@ Includes homepage, services page, and CTA content for a salon business.
 * Add multiple business types
 * Build UI tool for automation
 * Integrate with website builders
+
+1.Salon Example
+Business:
+
+Glow Beauty Salon, Vijayawada
+
+Generated Content Includes:
+Homepage copy
+Services description
+Call-to-Action sections
+
+This demonstrates how AI adapts tone and messaging for a salon business.
+2.Café Example
+Business:
+
+Brew Haven Café, Vijayawada
+
+Generated Content Includes:
+Homepage copy
+Services description
+Call-to-Action sections
+
+This demonstrates how AI adapts tone and messaging for a café business.
+3.Clinic Example:
+Business:
+CarePlus Clinic,Vijayawada
+
+Generated Content Includes:
+Homepage copy
+Services description
+Call-to-Action sections
+
+This demonstrates how AI adapts tone and messaging for a clinic business.

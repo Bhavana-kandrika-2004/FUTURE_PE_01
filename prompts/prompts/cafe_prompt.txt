@@ -1,0 +1,35 @@
+You are a professional website copywriter.
+
+Generate website content for a local café.
+
+Business Name: Brew Haven Café
+Location: Vijayawada
+Target Audience: Students, young professionals, coffee lovers
+Services: Coffee, Snacks, Desserts, Free WiFi
+Tone: Friendly, cozy, inviting
+
+Requirements:
+
+1. Homepage content:
+
+   * Headline
+   * Subheadline
+   * About section
+   * Why choose us (3–5 points)
+
+2. Services page:
+
+   * Short intro
+   * Description for each service
+
+3. Call-to-Action:
+
+   * Visit CTA
+   * Order CTA
+
+Ensure:
+
+* Simple and clear language
+* Conversion-focused writing
+* Local SEO-friendly tone
+* Website-ready formatting
